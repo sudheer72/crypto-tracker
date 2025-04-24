@@ -2,7 +2,7 @@
 
 A modern, responsive React application that tracks cryptocurrency prices in real-time, built with React, Redux Toolkit, and TypeScript.
 
-![CryptoTracker Demo](Video.mp4)
+![CryptoTracker Demo](https://drive.google.com/file/d/10exrou1mDfAihbQGrFTDofeL-nEtmW-Y/view?usp=sharing)
 ## ✨ Features
 
 - **Real-time Price Updates**: Simulated WebSocket updates every 1.5 seconds
